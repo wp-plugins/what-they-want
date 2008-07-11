@@ -23,7 +23,7 @@ The plugin "What they want" will help you do it easier.
 You can get newest version and support at here:
 http://makefun.cn/what-they-want
 
-If visitors find your site from a search engine,We can know what they want,for example:"joke"?,We cab help he find out something more about ¡°joke" in our site.Now,the plugin can recognise 80 search engines.
+If visitors find your site from a search engine,We can know what they want,for example:"joke"?,We cab help he find out something more about "joke" in our site.Now,the plugin can recognise 80 search engines.
 You can get the demo here:
 http://www.google.com/search?hl=en&newwindow=1&q=roboconvert+Your+BMW+into+a+robot&btnG=Search
 
@@ -35,7 +35,7 @@ http://www.google.com/search?hl=en&newwindow=1&q=roboconvert+Your+BMW+into+a+rob
 
 == usage ==
 
-There have two method it the plugin ¡°what they want".
+There have two method it the plugin "what they want".
 
 A:We just use google api,It will not occupy your hosting resource,But your visitor must use javascript.
 What you need to do just copy these code to anywhere you want,I had wrote css in code:
@@ -55,9 +55,9 @@ if (function_exists('makefun_active')) whattheywantmore_404()
 (I recommend you copy it to your 404.php,because It will occupy your hosting resource,you can just use it when something wrong happend in search engine)
 
 For speed up query and reduce the press of your hosting,I had optimize the query by two method:
-1:You can select ¡°Create a fulltext index to speed up query performance" option in ¡°setting" at ¡°admin area" after active this plugin.(I recommend you backup your database first)
+1:You can select "Create a fulltext index to speed up query performance" option in "setting" at "admin area" after active this plugin.(I recommend you backup your database first)
 
-2:you can select ¡°optimize your query performance?",It can optimize your query performance.
+2:you can select "optimize your query performance?",It can optimize your query performance.
 If you have any idea,tell me,thanks!
 
 Best,

@@ -24,6 +24,8 @@ You can get newest version and support at here:
 http://makefun.cn/what-they-want
 
 If visitors find your site from a search engine,We can know what they want,for example:"joke"?,We cab help he find out something more about ¡°joke" in our site.Now,the plugin can recognise 80 search engines.
+You can get the demo here:
+http://www.google.com/search?hl=en&newwindow=1&q=roboconvert+Your+BMW+into+a+robot&btnG=Search
 
 == Installation ==
 

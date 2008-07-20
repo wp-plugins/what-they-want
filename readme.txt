@@ -1,5 +1,5 @@
 === Plugin Name: What they want === 
-Stable tag:1.2
+Stable tag:1.3
 Contributors: Tomas.Zhu
 Plugin URI: http://makefun.cn/what-they-want
 Author URI: http://makefun.cn/

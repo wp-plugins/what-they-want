@@ -31,7 +31,7 @@ http://www.google.com/search?hl=en&newwindow=1&q=roboconvert+Your+BMW+into+a+rob
 
 1:Upload the file whattheywant to the `/wp-content/plugins/` directory
 
-2:Activate the plugin through the ¡®Plugins¡¯ menu in WordPress
+2:Activate the plugin through the 'Plugins' menu in WordPress
 
 == usage ==
 
@@ -41,7 +41,7 @@ A:We just use google api,It will not occupy your hosting resource,But your visit
 What you need to do just copy these code to anywhere you want,I had wrote css in code:
 
 <?php
-if (function_exists(¡¯makefun_active¡¯)) whattheywantmore()
+if (function_exists('makefun_active')) whattheywantmore()
 ?>
 
 (I recommend you copy it to single.php¡­.)

@@ -1,8 +1,8 @@
 === Plugin Name: What they want === 
 Stable tag:3.0
 Contributors: Tomas.Zhu
-Plugin URI: http://makefun.cn/what-they-want
-Author URI: http://makefun.cn/
+Plugin URL: http://makefun.cn/what-they-want
+Author URL: http://makefun.cn/
 Donate link: http://makefun.cn/what-they-want
 Tags:content,keywords,related,url,google,yahoo,baidu,search,posts,ajax,plugin,want,
 Requires at least: 2.2.3

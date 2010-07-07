@@ -20,12 +20,12 @@ http://www.gnu.org/licenses/gpl.txt
 This plugin will show all related posts / pages/ archive which match your clients' search keyword. It can also show related posts for your regular client.
 When your visitor come from search engine and read your posts, maybe it is not what they really want. In general, there are some related post plugin can help your client, but most of these related post plugin are not designed for visitor come from search engine and can not match the keyword which your client really want. So I write this plugin: "what they want" to help webmaster and their readers.
 
+You can get newest version and support at here:
+http://makefun.cn/what-they-want
+
 And you can test the demo here:
 http://www.google.com/search?hl=en&newwindow=1&q=roboconvert+Your+BMW+into+a+robot&btnG=Search
 (the first record should be makefun.cn/....)
-
-You can get newest version and support at here:
-http://makefun.cn/what-they-want
 
 If visitors find your site from a search engine, We can know what they want, for example:"joke", We can help them find out something more about "joke" in our site. In the current, this plugin can recognise 80 search engines and we are working for supporting more search engines, also in night version, I am re-writing this plugin to support search box in your wordpress, actaully it should can search everything in your database.
 
